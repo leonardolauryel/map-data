@@ -1,0 +1,132 @@
+{
+    "Água": [
+        "Água Potável",
+        "Água Mineral",
+        "Água Mineral - 200 Litros",
+        "Água Não Potável",
+        "Galão De Água Vazio"
+    ],
+    "Roupas Íntimas (Masc. E Fem.)": [
+        "Roupa íntima",
+        "Roupas Íntimas (masc E Fem)",
+        "Roupa íntima masculina e feminina",
+        "Roupa Íntima (adulto) Feminina E Masculina"
+    ],
+    "Roupas Íntimas (Infantil)": [
+        "Calcinha Infantil",
+        "Cueca infantil",
+        "Roupas Íntimas Infantil",
+        "Roupas Íntimas De Criança E Adolescente"
+    ],
+    "Roupas Íntimas Femininas": [
+        "Roupas Íntimas Femininas",
+        "Calcinha G E Gg",
+        "Sutiãs",
+        "Calcinhas",
+        "Roupa Íntima Feminina"
+    ],
+    "Roupas Íntimas Masculinas": [
+        "Roupas Íntimas Masculinas",
+        "Cuecas",
+        "Cueca G E Gg",
+        "Cueca tamanho",
+        "Cuecas Adultos G"
+    ],
+    "Roupas Íntimas Plus Size Femininas": [
+        "Roupas íntimas plus size feminina",
+        "Roupas íntimas plus size feminina"
+    ],
+    "Fraldas": [
+        "Pamada Para Bebê",
+        "Fralda Gg (infantil)",
+        "Fralda M",
+        "Fralda G",
+        "Fralda Gg",
+        "Fraldas G, Gg, M, P",
+        "Fralda Geriátrica ( Xg)",
+        "Fralda Geriátrica Gg",
+        "Fralda P",
+        "Fralda Geriátrica G",
+        "Fraldas Bebê",
+        "Fralda XG e XXG",
+        "Fralda Grande Porte Pet",
+        "Fralda RN",
+        "Fraldas Adultas",
+        "Fralda Geriátrica"
+    ],
+    "Ração": [
+        "Ração Gato",
+        "Ração Cão Raças Pequenas",
+        "Ração Gastro Intestinal Para Gato (seca E Lata)",
+        "Ração Senior",
+        "Ração Cachorro",
+        "Ração Filhote Gatos",
+        "Ração Cocota",
+        "Ração úmida",
+        "Sache - Cachorro",
+        "Sachê Para Gato"
+    ],
+    "Desodorante": [
+        "Desodorante Feminino",
+        "Desodorante roll-on sem álcool",
+        "Desodorante Masculino",
+        "Desodorante Aerosol"
+    ],
+    "Sabonete": [
+        "Sabonete De Rosto",
+        "Sabonete P/ Bebê",
+        "Sabonete glicerinado (para machucados)",
+        "Sabonete",
+        "Sabonete infantil"
+    ],
+    "Xampu": [
+        "Xampu Infantil",
+        "Xampu Para Piolho",
+        "Xampu Adulto",
+        "Xampu Para Bebês",
+        "Shampoo P/ Bebê",
+        "Shampoo Infantil"
+    ],
+    "Kit Higiene": [
+        "Kit De Higiene",
+        "Kit Higiene Infantil",
+        "Kit Higiene Pessoal"
+    ],
+    "Calçados": [
+        "Tenis Feminino E Masculino Acima De Tamanho 37",
+        "Calçados Infantis",
+        "Calçados Esportivos",
+        "Calçados Casuais",
+        "Calçados Masculinos",
+        "Calçados Femininos",
+        "Calçados Diversos",
+        "Calçados Masculino Acima De 40",
+        "Tênis 46",
+        "Chinelo 36 Ao 42",
+        "Galochas Variadas (masculino E Feminino)"
+    ],
+    "Papel e Embalagens": [
+        "Papel Para Secar Mão",
+        "Papel higiênico",
+        "Papel toalha",
+        "Jornal",
+        "Guardanapo de papel",
+        "Pratos-copos-talheres-guardanapos",
+        "Prato Descartável",
+        "Copo Isopor",
+        "Copos Plasticos",
+        "Copos Descartáveis 180ml",
+        "Copos Descartáveis",
+        "Pratos Descartáveis",
+        "Embalagens descartáveis para marmitas",
+        "Embalagem De Marmita"
+    ],
+    "Leite e Derivados": [
+        "Leite em pó",
+        "Leite Materno",
+        "Leite",
+        "Iogurte",
+        "Margarina",
+        "Manteiga De Cacau"
+    ]
+}
