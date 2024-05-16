@@ -1,21 +1,226 @@
 {
+    "OBJETOS ALEATORIOS": [
+        "Abajure Ou Luminária",
+        "2 Carrinhos De Bebê"
+    ],
+    "COMIDA": [
+        "Iogurte",
+        "Margarina"
+    ],
     "Água": [
         "Água Potável",
         "Água Mineral",
         "Água Mineral - 200 Litros",
         "Água Não Potável",
-        "Galão De Água Vazio"
+        "Água",
+        "Água Mineral",
+        "Água Mineral - 200 Litros"
     ],
-    "Roupas Íntimas (Masc. E Fem.)": [
+    "Saúde animal":[
+        "Antibiótico - Profilaxia Cães",
+        "Antipulgas",
+        "Antipulgas - Animais Pequeno Porte",        
+        "Teste De Cinomose",
+        "Teste De Fiv E Felv",        
+        "Remédios para pets",
+        "Simparic",
+        "Vincristina",
+        "Prednizolona Para Animais",
+        "Vermífugo"
+    ],
+    "Casinha e cama animal":[
+        "Casinha para cachorro ",
+        "Casinha Porte P",
+        "Cama Pet"
+    ],
+    "Caixa e areia gato":[
+        "Caixa de areia (gato)",
+        "Areia de gato"
+    ],
+    "Coleiras e guias":[
+        "Coleiras",
+        "Guias De Gatos E Cachorros",
+        "Peiteira P",
+        "Coleiras Para Pet"
+    ],
+    "Animais":[        
+        "Banho E Tosa",
+        "Caixa De Transporte",        
+        "Toalha Para Pet",     
+        "Brinquedos para cães",
+        "Fralda Grande Porte Pet",
+        "Cobertor Para Pets",
+        "Capa De Chuva Pet",
+        "Tapete higiênico",
+        "Pano Para Pet",
+        "Roupas Pet",
+        "Herbalvet Ou Vet+20"
+    ],
+    "Ração":[
+        "Ração Gato",
+        "Ração Cão Raças Pequenas",
+        "Ração Gastro Intestinal Para Gato (seca E Lata)",
+        "Ração Senior",
+        "Ração Cachorro",
+        "Ração Filhote Gatos",
+        "Ração Cocota",
+        "Ração úmida",
+        "Ração",
+        "Ração Cão Raças Pequenas",
+        "Ração Gastro Intestinal",
+        "Ração Gastro Intestinal Para Gato (seca E Lata)",
+        "Ração gato",
+        "Ração Gato",
+        "Ração Gatos"
+    ],
+    "Comida animal": [
+        "Sache - Cachorro",
+        "Sachê Para Gato",
+        "Sache - Cachorro",
+        "Sache - Cachorro",
+        "Sachê Para Gato",
+        "Petisco Para Animais",
+        "Ossinho Ou Semelhantes Para Ansiedade",
+        "Petmilk",
+        "Nutralife",     
+        "Suplemento Pet" 
+    ],
+    "Meias":[
+        "Meia Infantil",
+        "Meia Infantil 22-40",
+        "Meia",
+        "Meias",        
+        "Meias Infantil E Adulto"
+    ],
+    "Roupas de frio": [
+        "Abrigo Feminino E Masculino",        
+        "Agasalhos",
+        "Blusão Adulto",
+        "Blusão G",        
+        "Calca De Moletom",
+        "Calça De Moletom (g, Gg, Xxg)", 
+        "Calça Moletom G",
+        "Calça Moletom Gg",
+        "Calça Moleton",
+        "Roupa De Inverno",
+        "Casaco Moleton",
+        "Roupas De Frio M/g/gg",
+        "Roupas De Inverno",
+        "Casacos Quentes Para Adultos",
+        "Roupas para frio",
+        "Pijamas Inverno",
+        "Moletom Feminino E masculino"
+    ],
+    "Roupas de frio femininas": [
+        "Calça Moletom Feminino",
+        "Calça De Moletom - Feminina",        
+        "Casaco De Moletom Feminino",
+        "Roupas Femininas De Frio"
+    ],
+    "Roupas de frio masculinas": [
+        "Agasalho Masculino G/GG",
+        "Calça De Moletom Masculina",
+        "Calça Moletom Masculino",
+        "Calça moleton masculina - G",
+        "Casaco De Moletom Masculino",
+        "Casaco G E Gg Masculino",
+        "Casacos masculinos M/G/GG",
+        "Roupas Masculinas De Moletom G A Xxg (casacos E Calças)",
+        "Roupa Masculina Para Frio (todos Tamanhos)",
+        "Roupa Masculina De Frio M-g"
+    ],
+    "Roupas de frio (infantil/adolescente)": [
+        "Calça Moletom 10-14",
+        "Blusa Frio 8 - 16 Anos",
+        "Calça De Moletom 7-16 Anos",
+        "Roupa De Inverno Infantil",
+        "Roupa De Inverno Infantil",
+        "Roupa De Inverno Infantil 3 A 12 Anos",
+        "Casacos Quentes Infantis",
+        "Roupas Quentes Para Crianças (1-16 Anos)",
+        "Roupas 1 E 2 Anos De Inverno",
+        "Roupas De Inverno Para Crianças, Especialmente Meninos"
+    ],
+    "Roupas":[
+        "Calça Com Elástico F E M",
+        "Calças Gg",
+        "Camiseta Manga Curta",
+        "Camisetas (manga Longa)",
+        "Roupas para adultos",        
+        "Roupas grandes",
+        "Roupas GG",
+        "Roupas Gg E Xg Feminina E Masculina",
+        "Roupas Diversas",
+        "Roupas Femininas E Masculinas G E Gg",
+        "Roupas leves" 
+    ],
+    "Roupas (infantil/adolescente)":[
+        "Roupa Bebê 0-01 Ano",
+        "Roupas Bebe",
+        "Roupa Infantil 10-14 Anos",
+        "Roupa Infantil 1-3 Anos",
+        "Roupa Infantil 1-3 Anos",
+        "Roupa Infantil (4 A 10)",
+        "Roupa Infantil 7-8 Anos",
+        "Roupa Infantil Até 12 Anos",
+        "Roupa Infantil Menina",
+        "Roupa Infantil Menino",
+        "Roupa Infantil Menino",
+        "Roupa Infantil (todas Idades)",
+        "Roupas Adolescente",
+        "Roupas para crianças",
+        "Roupas Infantil"
+    ],
+    "Roupas Femininas":[
+        "Calça Jeans Feminina",
+        "Calça Legging",
+        "Roupa Feminina",
+        "Roupa Feminina P",
+        "Roupas Femininas",
+        "Roupas femininas G/GG",
+        "Roupas Femininas P"
+    ],
+    "Roupas Masculinas":[
+        "Calça Masculina",
+        "Calça Masculina G",
+        "Roupas Maculinas",
+        "Roupas Masculina",
+        "Roupas Masculinas P",        
+        "Bermuda Masculina",
+        "Bermuda Masculina",
+        "Roupas Masculinas Todos Os Tamanhos",
+        "Roupa Masculina Adulta",
+        "Roupa Masculina G E Gg",
+        "Roupa Masculina Gg",
+        "Roupa Masculina M"
+    ],
+    "Roupas plus size":[
+        "Roupas plus size feminina",
+        "Roupas plus size masculino",
+        "Calça plus size feminina",        
+        "Roupas plus size",
+        "Roupa Masculina Plus Size",
+        "Roupa plus size",        
+        "Roupa Feminina Plus Size"
+    ],
+    "Roupas Íntimas": [
         "Roupa íntima",
         "Roupas Íntimas (masc E Fem)",
         "Roupa íntima masculina e feminina",
-        "Roupa Íntima (adulto) Feminina E Masculina"
+        "Roupas Íntimas (masc E Fem)",
+        "Roupa Íntima (adulto) Feminina E Masculina",
+        "Roupas íntimas"
     ],
-    "Roupas Íntimas (Infantil)": [
+    "Roupas Íntimas (Infantil/adolescente)": [
         "Calcinha Infantil",
         "Cueca infantil",
         "Roupas Íntimas Infantil",
+        "Roupas Íntimas De Criança E Adolescente",
+        "Calcinha Infantil",
+        "Calcinhas Infantis G",
+        "Cueca Infantil Tamanho 6+",
+        "Roupa Íntima Infantil",
+        "Roupa Intima - Menina",
         "Roupas Íntimas De Criança E Adolescente"
     ],
     "Roupas Íntimas Femininas": [
@@ -23,17 +228,26 @@
         "Calcinha G E Gg",
         "Sutiãs",
         "Calcinhas",
-        "Roupa Íntima Feminina"
+        "Roupa Íntima Feminina",
+        "Calcinha",
+        "Calcinha G E Gg",
+        "Calcinhas",        
+        "Roupas Intimas Feminino",
+        "Sutiã",
+        "Sutiãs"
     ],
     "Roupas Íntimas Masculinas": [
         "Roupas Íntimas Masculinas",
         "Cuecas",
         "Cueca G E Gg",
         "Cueca tamanho",
-        "Cuecas Adultos G"
+        "Cuecas Adultos G",
+        "Cueca",
+        "Roupas Intimas Masculino",
+        "Cuecas Tamanhos P M G",
+        "Roupa íntima masculina"
     ],
     "Roupas Íntimas Plus Size Femininas": [
-        "Roupas íntimas plus size feminina",
         "Roupas íntimas plus size feminina"
     ],
     "Fraldas": [
@@ -52,25 +266,18 @@
         "Fralda Grande Porte Pet",
         "Fralda RN",
         "Fraldas Adultas",
-        "Fralda Geriátrica"
-    ],
-    "Ração": [
-        "Ração Gato",
-        "Ração Cão Raças Pequenas",
-        "Ração Gastro Intestinal Para Gato (seca E Lata)",
-        "Ração Senior",
-        "Ração Cachorro",
-        "Ração Filhote Gatos",
-        "Ração Cocota",
-        "Ração úmida",
-        "Sache - Cachorro",
-        "Sachê Para Gato"
+        "Fralda Geriátrica",
+        "Fralda Geriátrica G",   
+        "Fraldas",
+        "Fraldas Adultas",
+        "Fraldas Geriátricas"
     ],
     "Desodorante": [
         "Desodorante Feminino",
         "Desodorante roll-on sem álcool",
         "Desodorante Masculino",
-        "Desodorante Aerosol"
+        "Desodorante Aerosol",
+        "Desodorantes"
     ],
     "Sabonete": [
         "Sabonete De Rosto",
@@ -85,48 +292,386 @@
         "Xampu Adulto",
         "Xampu Para Bebês",
         "Shampoo P/ Bebê",
-        "Shampoo Infantil"
+        "Shampoo Infantil",
+        "Shampoo",
+        "Shampoo Em Embalagens Pequenas",
+        "Shampoo Infantil",
+        "Shampoo Para Piolho",        
+        "Xampu Adulto",
+        "Xampu Infantil",
+        "Xampu Para Bebês",
+        "Xampu Para Piolho"
     ],
-    "Kit Higiene": [
+    "Higiene pessoal": [
         "Kit De Higiene",
         "Kit Higiene Infantil",
-        "Kit Higiene Pessoal"
+        "Kit Higiene Pessoal",
+        "Itens de higiena pessoal",
+        "Higiene Pessoal"
+    ],
+    "Tênis":[
+        "Tênis",
+        "Tênis 36-39",
+        "Tênis 46",
+        "Tenis Feminino E Masculino Acima De Tamanho 37",
+        "Tenis Feminino E Masculino Acima De Tamanho 37",
+        "Tenis Feminino E Masculino Todos Os Tamanhos",
+        "Tenis Feminino E Masculino Todos Os Tamanhos",
+        "Tênis Infantil",
+        "Tênis (masc/fem/inf)",
+        "Tênis Masculino (38 E Maiores)",
+        "Tênis 46",
+        "Tenis Feminino E Masculino Acima De Tamanho 37"
+    ],
+    "Chinelo":[
+        "Chinelo 36 Ao 42",
+        "Chinelo Masc",
+        "Chinelos",
+        "Chinelos 36 A 39",
+        "Chinelos Feminino",
+        "Chinelos masculinos"
     ],
     "Calçados": [
-        "Tenis Feminino E Masculino Acima De Tamanho 37",
         "Calçados Infantis",
         "Calçados Esportivos",
         "Calçados Casuais",
         "Calçados Masculinos",
         "Calçados Femininos",
         "Calçados Diversos",
-        "Calçados Masculino Acima De 40",
-        "Tênis 46",
+        "Calçados Masculino Acima De 40",        
         "Chinelo 36 Ao 42",
-        "Galochas Variadas (masculino E Feminino)"
+        "Galochas Variadas (masculino E Feminino)",        
+        "Calçado Feminino",
+        "Calçado Infantil (25 A 34)",
+        "Calçado Infantil Masculino 33/34",
+        "Calçado Maculino 44",
+        "Calçado masculino",
+        "Calçado Masculino (39 A 43)",
+        "Calçados",
+        "Calçados Infantis",
+        "Calçados Masculino Acima De 40",
+        "Sapato Masculino ",
+        "sapatos masculinos - tênis"
     ],
-    "Papel e Embalagens": [
+    "Papel": [
         "Papel Para Secar Mão",
         "Papel higiênico",
         "Papel toalha",
         "Jornal",
-        "Guardanapo de papel",
-        "Pratos-copos-talheres-guardanapos",
-        "Prato Descartável",
+        "Guardanapo de papel"     
+    ],
+    "Copos":[
         "Copo Isopor",
         "Copos Plasticos",
         "Copos Descartáveis 180ml",
         "Copos Descartáveis",
-        "Pratos Descartáveis",
-        "Embalagens descartáveis para marmitas",
-        "Embalagem De Marmita"
+        "Copos"
     ],
-    "Leite e Derivados": [
+    "Pratos":[
+        "Prato Descartável",
+        "Pratos Descartáveis",
+        "Pratos"
+    ],
+    "Talhares":[
+        "Talher Descartável ",
+        "Talheres",
+        "Talheres Descartáveis",
+        "Garfo Descartável",
+        "Garfo e faca",
+        "Colher Descartável",
+        "Colheres Descartáveis (grandes/resistentes, Para Refeições)"
+    ],
+    "Embalagem marmita":[
+        "Embalagens descartáveis para marmitas",
+        "Embalagem De Marmita",
+        "Embalagem descartável para as marmitas",
+        "Marmitas De Isopor"
+    ],
+    "Descartáveis e embalagens":[
+        "Pratos-copos-talheres-guardanapos",
+        "Galão De Água Vazio",
+        "Touca Descartável",
+        "Descartáveis",
+        "Potes (marmitex)",
+        "Pote para comida"
+    ],    
+    "Leite": [
         "Leite em pó",
         "Leite Materno",
         "Leite",
-        "Iogurte",
-        "Margarina",
-        "Manteiga De Cacau"
+        "Leite Em Pó 0 Meses A 12 Anos"
+    ],
+    "Carne": [        
+        "7 Kg De Guisado",
+        "7 Kg De Pernil De Porco",
+        "Carne Em Geral",
+        "Carne Frango",
+        "Carne Gado",
+        "Carne Moída",
+        "Chuleta Suína 10kg"
+    ],
+    "Marmita":[
+        "Marmitas",
+        "Marmitas",
+        "Marmitas - 100",
+        "Marmitas (alimento Para Consumo Rápido)",
+        "100 Marmitas"
+    ],
+    "Achocolatado": [
+        "Achocolatado",
+        "Achocolatado pronto",
+        "Nescau",
+        "Toddy",
+        "Toddynho",
+        "Todynho",
+        "Nescau Em Pó"
+    ],
+    "Açucar": [
+        "Açucar",
+        "Açúcar",
+        "Açucar 5kg"
+    ],
+    "Cosméticos e higiene": [        
+        "Manteiga De Cacau",
+        "Alicate de corte",
+        "Talco Infantil"
+    ],
+    "Absorvente": [
+        "Absorvente",
+        "Absorventes higiênicos",
+        "Absorvente urinário",
+        "Modess"
+    ],
+    "Limpeza": [
+        "Água Sanitária",
+        "Balde",
+        "Baldes",
+        "Vassouras e rodos",
+        "Veja",
+        "Produto De Limpeza",
+        "Produtos De Limpeza",
+        "Produtos de desinfecção (cloro, álcool)" 
+    ],
+    "Álcool":[
+        "Álcool em gel",
+        "Álcool em gel",
+        "Álcool Em Gel Potes Médios Para Espalha",
+        "Álcool Gel",
+        "Álcool Líquido"
+    ],
+    "Frutas": [
+        "Banana",
+        "Frutas",
+        "Maçã",
+        "Mamão"
+    ],
+    "Legumes, verduras e vegetais": [
+        "Alface",
+        "Alho",
+        "Batata",
+        "Batata",
+        "Batata Doce",
+        "Brócolis",
+        "Tomate",
+        "Verdura",
+        "Cebola",
+        "Cenoura",        
+        "Chuchu",  
+        "Pimentão",      
+        "Legumes"
+    ],
+    "Farmácia":[
+        "Algodão ",
+        "Agulha Cinza Ou Roxa",
+        "Termômetro",
+        "Solução Otológica (para Limpar Ouvido)"
+    ],
+    "Soro":[
+        "Soro",
+        "Soro Fisiológico",
+        "Dersani"
+    ],
+    "Seringa": [        
+        "Seringa 10ml",
+        "Seringa 1ml",
+        "Seringa 3 E 5ml Com Agulha 70x30",
+        "Seringa 5ml",
+        "Seringa De Insulina"
+    ],
+    "Insulina":[
+        "Caneta Insulina Glargin (glargina)",
+        "Caneta Insulina Lispro Humalog (",
+        "Caneta Insulina Tresiba (degludeca)",
+        "Caneta Novorapid Flexpen Asparte"
+    ],
+    "Medicamentos":[
+        "Bactrim 400mg",
+        "Bactrim Suspensao",
+        "Pastilha Para Garganta",
+        "Xarope Para Gripe",
+        "Remédio para piolho",
+        "Remédios básicos",
+        "Medicamentos Comuns",
+        "Paracetamol em gotas",
+        "Medicamentos prescritos"
+    ],
+    "Vacinas": [
+        "Vacina Hepatite A",
+        "Vacina Para Covid",
+        "Vacina Para Influenza"
+    ],
+    "Bolacha":[
+        "Bolacha Doce",
+        "Bolacha Doce",
+        "Bolachas",
+        "Bolacha Salgada",
+        "Bolachinha"
+    ],
+    "Guloseimas":[        
+        "Bolinho",
+        "Waffer"
+    ],
+    "Alimentos":[
+        "Alimento Perecível",
+        "Alimentos",
+        "Alimentos Não Perecíveis",
+        "Alimentos para consumo rápido (Leite, bolacha, suco, etc)"
+    ],
+    "Voluntários":[
+        "Voluntário Assistente Social",
+        "Voluntário Assistente Social",
+        "Voluntário Dentista (fratura)",
+        "Voluntário - Madrugada",
+        "Voluntário - Madrugada",
+        "Voluntário - Manhã",
+        "Voluntário - Manhã",
+        "Voluntário - Noite",
+        "Voluntário - Noite",
+        "Voluntário P/ Cuidar Dos Animais",
+        "Voluntário P/ Cuidar Dos Animais",
+        "Voluntários",
+        "Voluntários",
+        "Voluntários Médicos",
+        "Voluntários Noite",
+        "Voluntários Noite",
+        "Voluntários para animais",
+        "Voluntários para animais",
+        "Voluntários Para Cozinha",
+        "Voluntários Para Cuidados Com Crianças",
+        "Voluntários Para Domingo 12/05 (turno Manhã E Turno Tarde)",
+        "Voluntários Para Escala",
+        "Voluntários Para Escala",
+        "Voluntários Para Instalar Manta Asfáltica",
+        "Voluntários Para Organizar Roupas",
+        "Voluntários Para Organizar Roupas",
+        "Voluntarios Para Pets Turno Da Noite",
+        "Voluntários Psicólogos",
+        "Voluntários Veterinários",
+        "Voluntários Veterinários",
+        "Voluntário - Tarde",
+        "Voluntário - Tarde",
+        "Técnico De Enfermagem",
+        "Técnico De Enfermagem",
+        "Técnico De Enfermagem - Noite"
+    ],
+    "Toalha":[
+        "Toalha de Banho",
+        "Toalha de Banho",
+        "Toalha De Rosto",
+        "Toalha De Rosto"
+    ],
+    "Suco":[
+        "Suco de caixinha",
+        "Suco Em Pó",
+        "Sucos",
+        "Sucos De Caixinhas"
+    ],
+    "Sacos e sacolas":[
+        "Saco De Lixo 100l",
+        "Saco De Lixo 100l",
+        "Saco De Lixo 30l Ou 50l",
+        "Saco De Lixo Grande",
+        "Sacola Plástica De Mercado",
+        "Sacolas ou sacos plásticos ",
+        "Sacolas Para Montar Kits",
+        "Sacolinhas plasticas para kits ",
+        "Saco Plástico 5kg",
+        "Saco Plástico Pequeno",
+        "Sacos 200l",
+        "Sacos de lixo",
+        "Sacos De Lixo 50l E 100l",
+        "Sacos De Lixo Fortes (100l E 200l)",    
+        "Saquinhos Para Montar Kit Higiene"
+    ],
+    "Sabão":[
+        "Sabão Em Barra",
+        "Sabão em pó ",
+        "Sabão em pó ",
+        "Sabão Em Pó"
+    ],
+    "Sabonetes":[
+        "Sabonete De Rosto",
+        "Sabonete glicerinado (para machucados)",
+        "Sabonete infantil ",
+        "Sabonete Líquido",
+        "Sabonete P/ Bebê",
+        "Sabonetes"
+    ],
+    "Cesta básica":[
+        "Cesta Básica",
+        "Cestas Básicas"
+    ],
+    "Cobertores":[
+        "Coberta",
+        "Coberta Grossa",
+        "Cobertas",
+        "Cobertores"
+    ],
+    "Cordas":[
+        "Corda de varal",
+        "Cordas",
+        "Cordas De Varal",
+        "Corda naval"
+    ],
+    "Fórmula":[
+        "Fórmula infantil",
+        "Fórmula infantil",
+        "Fórmula infantil",
+        "Fórmula Infantil (aptamil, Nan, Etc)",
+        "Fórmula Número 1 (0-6)",  
+        "Fórmula adulto"
+    ],
+    "Colchão":[
+        "Colchão",
+        "Colchão Piramidal",
+        "Colchões",
+        "Colchões De Espuma"
+    ],
+    "Lençol":[
+        "Lenço De Cima",
+        "Lençóis",
+        "Lençol",
+        "Lençol De Casal",
+        "Lençol De Solteiro",
+        "Lençol De Solteiro Com Elástico"
+    ],
+    "Óleo de cozinha":[        
+        "Oléo",
+        "Óleo De Cozinha",
+        "Óleo De Cozinha",
+        "Óleo De Soja",
+        "Óleo De Soja"
+    ],
+    "Barbeador":[
+        "Prestobarba",
+        "Gilete",        
+        "Barbeador Descartável",        
+        "Lâmina De Barbear",
+        "Aparelho De Barbear"
+    ],
+    "Pão":[
+        "Pão",
+        "Pão De Sanduíche",
+        "Pães"
     ]
 }
