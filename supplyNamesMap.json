@@ -1,6 +1,5 @@
 {
     "OBJETOS ALEATORIOS": [
-        "Abajure Ou Luminária",
         "2 Carrinhos De Bebê"
     ],
     "COMIDA": [
@@ -26,6 +25,9 @@
         "Simparic",
         "Vincristina",
         "Prednizolona Para Animais",
+        "Itraconazol",
+        "Medicamentos veterinários",
+        "Glicopan",
         "Vermífugo"
     ],
     "Casinha e cama animal":[
@@ -54,6 +56,7 @@
         "Tapete higiênico",
         "Pano Para Pet",
         "Roupas Pet",
+        "Luvas Para Pegar Gatos",
         "Herbalvet Ou Vet+20"
     ],
     "Ração":[
@@ -73,7 +76,7 @@
         "Ração Gato",
         "Ração Gatos"
     ],
-    "Comida animal": [
+    "Comida e petiscos animal": [
         "Sache - Cachorro",
         "Sachê Para Gato",
         "Sache - Cachorro",
@@ -82,7 +85,8 @@
         "Petisco Para Animais",
         "Ossinho Ou Semelhantes Para Ansiedade",
         "Petmilk",
-        "Nutralife",     
+        "Nutralife", 
+        "Complexo Vitamínico Para Cães Sênior",    
         "Suplemento Pet" 
     ],
     "Meias":[
@@ -233,6 +237,7 @@
         "Calcinha G E Gg",
         "Calcinhas",        
         "Roupas Intimas Feminino",
+        "Lingerie",
         "Sutiã",
         "Sutiãs"
     ],
@@ -249,65 +254,6 @@
     ],
     "Roupas Íntimas Plus Size Femininas": [
         "Roupas íntimas plus size feminina"
-    ],
-    "Fraldas": [
-        "Pamada Para Bebê",
-        "Fralda Gg (infantil)",
-        "Fralda M",
-        "Fralda G",
-        "Fralda Gg",
-        "Fraldas G, Gg, M, P",
-        "Fralda Geriátrica ( Xg)",
-        "Fralda Geriátrica Gg",
-        "Fralda P",
-        "Fralda Geriátrica G",
-        "Fraldas Bebê",
-        "Fralda XG e XXG",
-        "Fralda Grande Porte Pet",
-        "Fralda RN",
-        "Fraldas Adultas",
-        "Fralda Geriátrica",
-        "Fralda Geriátrica G",   
-        "Fraldas",
-        "Fraldas Adultas",
-        "Fraldas Geriátricas"
-    ],
-    "Desodorante": [
-        "Desodorante Feminino",
-        "Desodorante roll-on sem álcool",
-        "Desodorante Masculino",
-        "Desodorante Aerosol",
-        "Desodorantes"
-    ],
-    "Sabonete": [
-        "Sabonete De Rosto",
-        "Sabonete P/ Bebê",
-        "Sabonete glicerinado (para machucados)",
-        "Sabonete",
-        "Sabonete infantil"
-    ],
-    "Xampu": [
-        "Xampu Infantil",
-        "Xampu Para Piolho",
-        "Xampu Adulto",
-        "Xampu Para Bebês",
-        "Shampoo P/ Bebê",
-        "Shampoo Infantil",
-        "Shampoo",
-        "Shampoo Em Embalagens Pequenas",
-        "Shampoo Infantil",
-        "Shampoo Para Piolho",        
-        "Xampu Adulto",
-        "Xampu Infantil",
-        "Xampu Para Bebês",
-        "Xampu Para Piolho"
-    ],
-    "Higiene pessoal": [
-        "Kit De Higiene",
-        "Kit Higiene Infantil",
-        "Kit Higiene Pessoal",
-        "Itens de higiena pessoal",
-        "Higiene Pessoal"
     ],
     "Tênis":[
         "Tênis",
@@ -379,6 +325,7 @@
         "Garfo Descartável",
         "Garfo e faca",
         "Colher Descartável",
+  "Utensílios Infantis",
         "Colheres Descartáveis (grandes/resistentes, Para Refeições)"
     ],
     "Embalagem marmita":[
@@ -387,18 +334,25 @@
         "Embalagem descartável para as marmitas",
         "Marmitas De Isopor"
     ],
+    "Bombona de água":[        
+        "Bombona Vazia 20l",
+        "Galão De Água Vazio"
+    ],
     "Descartáveis e embalagens":[
-        "Pratos-copos-talheres-guardanapos",
-        "Galão De Água Vazio",
+        "Pratos-copos-talheres-guardanapos",        
         "Touca Descartável",
         "Descartáveis",
         "Potes (marmitex)",
+        "Máscara",
+        "Touca Para Cozinhar",
         "Pote para comida"
     ],    
-    "Leite": [
+    "Leite e farinhas lácteas": [
         "Leite em pó",
         "Leite Materno",
         "Leite",
+        "Farinha Láctea",
+        "Mucilon",
         "Leite Em Pó 0 Meses A 12 Anos"
     ],
     "Carne": [        
@@ -408,6 +362,7 @@
         "Carne Frango",
         "Carne Gado",
         "Carne Moída",
+        "Linguiça",
         "Chuleta Suína 10kg"
     ],
     "Marmita":[
@@ -431,18 +386,145 @@
         "Açúcar",
         "Açucar 5kg"
     ],
-    "Cosméticos e higiene": [        
+    "Fraldas": [
+        "Pamada Para Bebê",
+        "Fralda Gg (infantil)",
+        "Fralda M",
+        "Fralda G",
+        "Fralda Gg",
+        "Fraldas G, Gg, M, P",
+        "Fralda Geriátrica ( Xg)",
+        "Fralda Geriátrica Gg",
+        "Fralda P",
+        "Fralda Geriátrica G",
+        "Fraldas Bebê",
+        "Fralda XG e XXG",
+        "Fralda Grande Porte Pet",
+        "Fralda RN",
+        "Fraldas Adultas",
+        "Fralda Geriátrica",
+        "Fralda Geriátrica G",   
+        "Fraldas",
+        "Fraldas Adultas",
+        "Fraldas Geriátricas"
+    ],
+    "Desodorante": [
+        "Desodorante Feminino",
+        "Desodorante roll-on sem álcool",
+        "Desodorante Masculino",
+        "Desodorante Aerosol",
+        "Desodorantes"
+    ],
+    "Sabonete": [
+        "Sabonete De Rosto",
+        "Sabonete P/ Bebê",
+        "Sabonete glicerinado (para machucados)",
+        "Sabonete",
+        "Sabonete infantil"
+    ],
+    "Xampu": [
+        "Xampu Infantil",
+        "Xampu Para Piolho",
+        "Xampu Adulto",
+        "Xampu Para Bebês",
+        "Shampoo P/ Bebê",
+        "Shampoo Infantil",
+        "Shampoo",
+        "Shampoo Em Embalagens Pequenas",
+        "Shampoo Infantil",
+        "Shampoo Para Piolho",        
+        "Xampu Adulto",
+        "Xampu Infantil",
+        "Xampu Para Bebês",
+        "Xampu Para Piolho"
+    ],
+    "Higiene pessoal e cosméticos": [
+        "Kit De Higiene",
+        "Kit Higiene Infantil",
+        "Kit Higiene Pessoal",
+        "Itens de higiena pessoal",
+        "Material De Higiene",
+        "Higiene Pessoal",
+        "Escova de dentes",
         "Manteiga De Cacau",
         "Alicate de corte",
-        "Talco Infantil"
+        "Pinça",
+        "Escova de dentes",
+        "Escova De Dentes",
+        "Creme De Cabelo",
+        "Creme de pentear",
+        "Creme De Pentear",
+        "Cotonete",
+        "Cortador De Unha",
+        "Cortador de unhas",
+        "Pasta de dente"
+    ],
+    "Higiene/farmácia bebê e criança":[
+        "Talco Infantil",
+        "Pomada para assadura",
+        "Pasta De Dente Infantil",
+        "Pomada Para Bebê",
+        "Repelente Infantil",
+        "Escova De Dentes Infantil"
+    ],
+    "Farmácia":[
+        "Algodão ",
+        "Agulha Cinza Ou Roxa",
+        "Termômetro",
+        "Esparadrapo",
+        "Micropore",
+        "Repelente",
+        "Lenços umedecidos",
+        "Lenço Umedecido",
+        "Dersani",
+        "Curativos",
+        "Solução Otológica (para Limpar Ouvido)"
+    ],
+    "Soro":[
+        "Soro",
+        "Soro Fisiológico"
+    ],
+    "Seringa": [        
+        "Seringa 10ml",
+        "Seringa 1ml",
+        "Seringa 3 E 5ml Com Agulha 70x30",
+        "Seringa 5ml",
+        "Seringa De Insulina"
+    ],
+    "Insulina":[
+        "Caneta Insulina Glargin (glargina)",
+        "Caneta Insulina Lispro Humalog (",
+        "Caneta Insulina Tresiba (degludeca)",
+        "Caneta Novorapid Flexpen Asparte"
+    ],
+    "Medicamentos":[
+        "Bactrim 400mg",
+        "Bactrim Suspensao",
+        "Pastilha Para Garganta",
+        "Xarope Para Gripe",
+        "Remédio para piolho",
+        "Remédios básicos",
+        "Medicamentos Comuns",
+        "Paracetamol em gotas",
+        "Ivermectina",
+        "Meloxitan Injetável",
+        "Pomada Nistatina",
+        "Medicamentos prescritos"
+    ],
+    "Vacinas": [
+        "Vacina Hepatite A",
+        "Vacina Para Covid",
+        "Vacina Para Influenza"
     ],
     "Absorvente": [
         "Absorvente",
         "Absorventes higiênicos",
         "Absorvente urinário",
+        "Protetor De Calcinha",
         "Modess"
     ],
     "Limpeza": [
+        "Material De Limpeza",
         "Água Sanitária",
         "Balde",
         "Baldes",
@@ -450,6 +532,18 @@
         "Veja",
         "Produto De Limpeza",
         "Produtos De Limpeza",
+        "Itens de limpeza",
+        "Kit De Limpeza",
+        "Mop Giratório",  
+        "Pá de lixo",
+        "Rodo",
+        "Vassouras",
+        "Desentupidor - Diabo Verde",
+        "Desinfetante",
+        "Detergente",
+        "Esponja",
+        "Esponjas De Louça",
+        "Bombril",
         "Produtos de desinfecção (cloro, álcool)" 
     ],
     "Álcool":[
@@ -477,49 +571,12 @@
         "Cebola",
         "Cenoura",        
         "Chuchu",  
-        "Pimentão",      
+        "Pimentão", 
+        "Moranga Cabotiá", 
+        "Repolho",  
+        "Saladas",  
         "Legumes"
-    ],
-    "Farmácia":[
-        "Algodão ",
-        "Agulha Cinza Ou Roxa",
-        "Termômetro",
-        "Solução Otológica (para Limpar Ouvido)"
-    ],
-    "Soro":[
-        "Soro",
-        "Soro Fisiológico",
-        "Dersani"
-    ],
-    "Seringa": [        
-        "Seringa 10ml",
-        "Seringa 1ml",
-        "Seringa 3 E 5ml Com Agulha 70x30",
-        "Seringa 5ml",
-        "Seringa De Insulina"
-    ],
-    "Insulina":[
-        "Caneta Insulina Glargin (glargina)",
-        "Caneta Insulina Lispro Humalog (",
-        "Caneta Insulina Tresiba (degludeca)",
-        "Caneta Novorapid Flexpen Asparte"
-    ],
-    "Medicamentos":[
-        "Bactrim 400mg",
-        "Bactrim Suspensao",
-        "Pastilha Para Garganta",
-        "Xarope Para Gripe",
-        "Remédio para piolho",
-        "Remédios básicos",
-        "Medicamentos Comuns",
-        "Paracetamol em gotas",
-        "Medicamentos prescritos"
-    ],
-    "Vacinas": [
-        "Vacina Hepatite A",
-        "Vacina Para Covid",
-        "Vacina Para Influenza"
-    ],
+    ],    
     "Bolacha":[
         "Bolacha Doce",
         "Bolacha Doce",
@@ -625,6 +682,7 @@
         "Coberta",
         "Coberta Grossa",
         "Cobertas",
+        "Mantas Ou Cobertas",
         "Cobertores"
     ],
     "Cordas":[
@@ -662,6 +720,13 @@
         "Óleo De Soja",
         "Óleo De Soja"
     ],
+    "Pente/Escova de cabelo":[
+        "Pente",
+        "Pente/Escova de cabelo",
+        "Pente Fino",
+        "Escova E Pente De Cabelo",
+        "Escova de cabelo"
+    ],
     "Barbeador":[
         "Prestobarba",
         "Gilete",        
@@ -673,5 +738,80 @@
         "Pão",
         "Pão De Sanduíche",
         "Pães"
+    ],
+    "Luva descartável":[
+        "Luva de Latex Descartável",
+        "Luva De Limpeza",
+        "Luva De Procedimento",
+        "Luva G",
+        "Luva Latex",
+        "Luvas",
+        "Luvas Descartáveis",
+        "Luvas Limpeza",
+        "Luvas para limpeza"
+    ],
+    "Luva (roupa)":[
+        "Luvas",
+        "Luvas De Frio",
+        "Luvas De Lã"
+    ],
+    "Entretenimento":[
+        "Livros",
+        "Jogo de cartas, baralho, dama e dominó, etc",
+        "Jogos Para Atividades Com As Crianças"
+    ],
+    "Iluminação":[
+        "Abajure Ou Luminária",
+        "Luz de Emergência",
+        "Vela",
+        "Lanternas"
+    ],
+    "Pano":[        
+        "Pano de chão",
+        "Pano de chão",
+        "Pano de limpeza",
+        "Pano de prato",
+        "Panos De Chão"
+    ],
+    "Polenta":[
+        "Polenta",
+        "Polenta Grossa",
+        "Farinha de polenta"
+    ],
+    "Farinha":[
+        "Farinha",
+        "Farinha De Mandioca",
+        "Farinha De Milho",
+        "Farinha de trigo"
+    ],
+    "Fita":[
+        "Fita Adesiva Crepe",
+        "Fita Dupla Face",
+        "Fita Durex larga"
+    ],
+    "Café":[
+        "Café",
+        "Pó De Café",
+        "Café Solúvel"
+    ],
+    "Cama":[
+        "Cama alta para cadeirante ",
+        "Cama Beliche",
+        "Cama De Hospital",
+        "Cama Geriatria"
+    ],
+    "Papelaria":[
+        "Caneta Permanente",
+        "Pasta De Documento",
+        "Pasta Z (fichario)",
+        "Material Escolar",
+        "Pincel Atômico"
+    ],
+    "Lavar/secar roupas":[        
+        "Lavanderia",        
+        "Máquina de lavar roupa",
+        "Maquina De Lavar Roupas 110 V",
+        "Máquina De Secar Roupa 220v"
     ]
+
 }
