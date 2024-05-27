@@ -3,9 +3,7 @@
         "Água Potável",
         "Água Mineral",
         "Água Mineral - 200 Litros",
-        "Água Não Potável",
-        "Água",
-        "Água Mineral"
+        "Água"
     ],
     "Água Não Potável": [
         "Água Não Potável"
@@ -189,13 +187,16 @@
         "Roupas Femininas De Frio",
         "Roupa Masculina Para Frio (todos Tamanhos)",
         "Roupa Masculina De Frio M-g",
+        "Roupas 1 E 2 Anos De Inverno"
+        
+    ],
+    "Roupa de Inverno (Infantil)" : [
         "Roupa De Inverno Infantil",
         "Roupa De Inverno Infantil",
         "Roupa De Inverno Infantil 3 A 12 Anos",
         "Casacos Quentes Infantis",
-        "Roupas Quentes Para Crianças (1-16 Anos)",
-        "Roupas 1 E 2 Anos De Inverno",
-        "Roupas De Inverno Para Crianças, Especialmente Meninos"
+        "Roupas De Inverno Para Crianças, Especialmente Meninos",
+        "Roupas Quentes Para Crianças (1-16 Anos)"
     ],
     "Casaco de Moletom": [
         "Casaco Moleton",
