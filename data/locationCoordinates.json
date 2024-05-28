@@ -1132,5 +1132,77 @@
         "address": "R. Marabá, 2231 - Centro, Capão da Canoa - RS, 95555-000, Brazil",
         "lat": -29.7615805,
         "lng": -50.0184603
+    },
+    "EmefHugoGerdau": {
+        "name": "Emef Hugo Gerdau",
+        "address": "R. Adelaíde Corrêa, 50 - Colonial, Sapucaia do Sul - RS, 93212-020, Brazil",
+        "lat": -29.8097499,
+        "lng": -51.1690656
+    },
+    "EeefEscolaEstadualDeEnsinoFundamentalPlanaltoCanoense": {
+        "name": "Eeef - Escola Estadual De Ensino Fundamental - Planalto Canoense",
+        "address": "Av. Dr. Sezefredo Azambuja Vieira, 61 - Olaria, Canoas - RS, 92035-030, Brazil",
+        "lat": -29.9212675,
+        "lng": -51.1218219
+    },
+    "ColegioGloriapontoDeColetaECentroDeDistribuicao": {
+        "name": "Colégio Glória [ponto De Coleta E Centro De Distribuição]",
+        "address": "Av. Prof. Oscar Pereira, 3054 - Glória, Porto Alegre - RS, 91710-000, Brazil",
+        "lat": -30.0773018,
+        "lng": -51.2001358
+    },
+    "ColegioMaristaGracasviamao": {
+        "name": "Colégio Marista Graças (viamão)",
+        "address": "Av. Sen. Salgado Filho, 8326 - Jardim Krahe, Viamão - RS, 94440-000, Brazil",
+        "lat": -30.0785475,
+        "lng": -51.0504663
+    },
+    "ReinoDeIemanjaTalade": {
+        "name": "Reino De Iemanja Talade",
+        "address": "R. Encantadora, 440 - Partenon, Porto Alegre - RS, 91530-480, Brazil",
+        "lat": -30.0715907,
+        "lng": -51.1523218
+    },
+    "EmebEscolaMunicipalDeEducacaoBasicaEzequielNunesFilho": {
+        "name": "Emeb - Escola Municipal De Educação Básica Ezequiel Nunes Filho",
+        "address": "R. Ezequiel Nunes Filho, 181 - São Sebastiao, Esteio - RS, 93265-390, Brazil",
+        "lat": -29.8607675,
+        "lng": -51.1790256
+    },
+    "CtgEstanciaDaFigueira": {
+        "name": "Ctg Estância Da Figueira",
+        "address": "R. Dr. Vergara, 5345 - Belém Velho, Porto Alegre - RS, 91712-120, Brazil",
+        "lat": -30.115738,
+        "lng": -51.180463
+    },
+    "OkaManakaRedeDeApoioAosTerritoriosIndigenasDoRspontoDeColeta": {
+        "name": "Oka Manaka - Rede De Apoio Aos Territórios Indígenas Do Rs [ponto De Coleta]",
+        "address": "Estr. da Taquara, 671 - Lami, Porto Alegre - RS, 91787-760, Brazil",
+        "lat": -30.2030215,
+        "lng": -51.1130813
+    },
+    "IgrejaDeusEAmorDeViamaocentroDeColetaEDistribuicao": {
+        "name": "Igreja Deus É Amor De Viamão [centro De Coleta E Distribuição]",
+        "address": "Rua Beco dos Soares, 1045 - São Lucas, Viamão - RS, 94450-440, Brazil",
+        "lat": -30.0838461,
+        "lng": -51.07330289999999
+    },
+    "ClinicaEsperancaCeacri": {
+        "name": "Clínica Esperança Ceacri",
+        "address": "R. Deodoro, 255 - Morro Santana, Porto Alegre - RS, 91260-370, Brazil",
+        "lat": -30.0364257,
+        "lng": -51.11776510000001
+    },
+    "EscolaEstadualDeEnsinoMedioSantaRosa": {
+        "name": "Escola Estadual De Ensino Médio Santa Rosa",
+        "address": "Av. Bernardino de Oliveira Paim, 665 - Santa Rosa de Lima, Porto Alegre - RS, 91160-300, Brazil",
+        "lat": -29.996848,
+        "lng": -51.1005231
+    },
+    "AbrigoEscolaJussaraMariaPolidoro": {
+        "name": "Abrigo Escola Jussara Maria Polidoro",
+        "address": "Av. Dezessete de Abril, 950 - Guajuviras, Canoas - RS, 92440-166, Brazil",
+        "lat": -29.8961836,
+        "lng": -51.1352222
     }
 }
