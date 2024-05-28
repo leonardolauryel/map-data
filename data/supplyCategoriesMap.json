@@ -45,7 +45,8 @@
     ],
     "Voluntariado": [
         "Não Precisa De Voluntários (não Considerar Item Acima: \"voluntários - Tarde\")",
-        "Voluntários Para Organizar Roupas"
+        "Voluntários Para Organizar Roupas",
+        "Voluntários Da Área Da Saúde"
     ],
     "Itens Descartáveis": [
         "Fralda Geriátrica ( Xg)",
@@ -91,7 +92,10 @@
         "Filtro De Café Numero 103",
         "Alimentos15 Kg Arroz/dia E 8 Kg Feijão",
         "Marmitas ( Arroz, Frango E Legumes)",
-        "Mortadela/presunto/apresuntado"
+        "Mortadela/presunto/apresuntado",
+        "Alimentos",
+        "Colher Descartável",
+        "Talher Descartável"
 
     ],
     "Material de Limpeza": [
@@ -116,10 +120,12 @@
         "Blusão G",
         "Calça Com Elástico F E M",
         "Roupas Infantil",
-        "Calçados/Tênis Infantil"
+        "Calçados/Tênis Infantil",
+        "Chinelo",
+        "Luva de Lã",
+        "Roupas Adolescente"
     ],
     "Veículos de Resgate e Transporte": [
-        "Gás 45 Kg"
     ],
     "Outros": [
         "Espaçador Infantil Para Bombinha",
@@ -131,7 +137,10 @@
         "Carrinho De Bebe",
         "Fita Adesiva Crepe",
         "Caixa De Transporte",
-        "Prendedor de Roupas"
+        "Prendedor de Roupas",
+        "Gás",
+        "Gás 45 Kg"
+
     ],
     "Mobílias": [
         "Baldes/bacias"
@@ -140,7 +149,8 @@
         "Ventilador",
         "Balança",
         "1 Geladeira 110v",
-        "Televisão"
+        "Televisão",
+        "Celular"
     ],
     "Entretenimento": [
         "Baralho De Uno",
