@@ -186,8 +186,7 @@
         "Roupas para frio",
         "Roupas Femininas De Frio",
         "Roupa Masculina Para Frio (todos Tamanhos)",
-        "Roupa Masculina De Frio M-g",
-        "Roupas 1 E 2 Anos De Inverno"
+        "Roupa Masculina De Frio M-g"    
         
     ],
     "Roupa de Inverno (Infantil)" : [
@@ -196,7 +195,8 @@
         "Roupa De Inverno Infantil 3 A 12 Anos",
         "Casacos Quentes Infantis",
         "Roupas De Inverno Para Crianças, Especialmente Meninos",
-        "Roupas Quentes Para Crianças (1-16 Anos)"
+        "Roupas Quentes Para Crianças (1-16 Anos)",
+        "Roupas 1 E 2 Anos De Inverno"
     ],
     "Casaco de Moletom": [
         "Casaco Moleton",
@@ -385,13 +385,11 @@
         "Talheres Descartáveis"
     ],
     "Talheres": [
-        "Talheres"
+        "Talheres",
+        "Garfo e faca"
     ],
     "Garfo Descartável": [
         "Garfo Descartável"
-    ],
-    "Garfo e Faca": [
-        "Garfo e faca"
     ],
     "Colher Descartável": [
         "Colher Descartável",
@@ -400,7 +398,7 @@
     "Utensílios Infantis": [
         "Utensílios Infantis"
     ],
-    "Embalagem marmita":[
+    "Embalagem de marmita":[
         "Embalagens descartáveis para marmitas",
         "Embalagem De Marmita",
         "Embalagem descartável para as marmitas",
@@ -410,23 +408,16 @@
         "Bombona Vazia 20l",
         "Galão De Água Vazio"
     ],
-    "Embalagem de Marmita": [
-        "Embalagens descartáveis para marmitas",
-        "Embalagem De Marmita",
-        "Embalagem descartável para as marmitas"
-    ],
     "Marmitas de Isopor": [
         "Marmitas De Isopor"
     ],
-    "Combo de Descartáveis": [
-        "Pratos-copos-talheres-guardanapos"
+    "Descartáveis": [
+        "Pratos-copos-talheres-guardanapos",
+        "Descartáveis"
     ],
     "Touca Descartável": [
         "Touca Descartável",
         "Touca Para Cozinhar"
-    ],
-    "Descartáveis Gerais": [
-        "Descartáveis"
     ],
     "Potes para Marmita": [
         "Potes (marmitex)",
@@ -482,15 +473,15 @@
     "Achocolatado": [
         "Achocolatado",
         "Nescau",
-        "Nescau Em Pó"
+        "Nescau Em Pó",
+        "Toddy"
     ],
     "Toddynho": [
         "Achocolatado pronto",
         "Toddynho",
-        "Todynho",
-        "Toddy"
+        "Todynho"
     ],
-    "Açucar": [
+    "Açúcar": [
         "Açucar",
         "Açúcar",
         "Açucar 5kg"
@@ -534,20 +525,20 @@
     "Sabonete Geral": [
         "Sabonete"
     ],
-    "Shampoo Infantil": [
+    "Xampu Infantil": [
         "Xampu Infantil",
         "Shampoo Infantil"
     ],
-    "Shampoo para Piolho": [
+    "Xampu para Piolho": [
         "Xampu Para Piolho",
         "Shampoo Para Piolho"
     ],
-    "Shampoo": [
+    "Xampu": [
         "Xampu Adulto",
         "Shampoo",
         "Shampoo Em Embalagens Pequenas"
     ],
-    "Xampu/Shampoo para Bebês": [
+    "Xampu para Bebês": [
         "Xampu Para Bebês",
         "Shampoo P/ Bebê"
     ],
@@ -681,7 +672,7 @@
     "Medicamentos Injetáveis": [
         "Meloxitan Injetável"
     ],
-    "Pomadas": [
+    "Pomada Nistatina": [
         "Pomada Nistatina"
     ],
     "Vacina Hepatite A": [
@@ -810,13 +801,16 @@
         "Bolachinha"
     ],
     "Alimento Perecível": [
-        "Alimento Perecível"
+        "Alimento Perecível",
+        "Produtos Perecíveis",
+        "Comida Perecível"
     ],
     "Alimentos": [
         "Alimentos"
     ],
     "Alimento Não Perecível": [
-        "Alimentos Não Perecíveis"
+        "Alimentos Não Perecíveis",
+        "Comidas Não Perecíveis"
     ],
     "Alimentos para Consumo Rápido": [
         "Alimentos para consumo rápido (Leite, bolacha, suco, etc)"
@@ -849,7 +843,8 @@
         "Voluntários"
     ],
     "Voluntários Médicos": [
-        "Voluntários Médicos"
+        "Voluntários Médicos",
+        "Médicos"
     ],
     "Voluntários Para Cozinha": [
         "Voluntários Para Cozinha"
@@ -1041,11 +1036,9 @@
     "Lanternas": [
         "Lanternas"
     ],
-    "Pano de Chão": [
+    "Pano de Chão e Limpeza": [
         "Pano de chão",
-        "Panos De Chão"
-    ],
-    "Pano de Limpeza": [
+        "Panos De Chão",
         "Pano de limpeza"
     ],
     "Pano de Prato": [
@@ -1152,10 +1145,6 @@
     "Banheira": [
         "Banheira"
     ],
-    "Bico": [
-        "Bico",
-        "Bicos"
-    ],
     "Biombo": [
         "Biombo",
         "Biombos"
@@ -1195,16 +1184,15 @@
         "Chaleira Elétrica"
     ],
     "Chupeta/Bico": [
-        "Chupeta/bico"
+        "Chupeta/bico",
+        "Bico",
+        "Bicos"
     ],
     "Colete Salva Vidas": [
         "Colete Salva Vidas"
     ],
     "Colírio Still": [
         "Colírii Still"
-    ],
-    "Comidas Não Perecíveis": [
-        "Comidas Não Perecíveis"
     ],
     "Computador": [
         "Computador"
@@ -1221,8 +1209,9 @@
     "Elástico para Cabelo": [
         "Elástico Para Cabelo"
     ],
-    "Enfermeiros": [
-        "Enfermeiros"
+    "Voluntários Enfermeiros": [
+        "Enfermeiros",
+        "Voluntários Enfermeiros"
     ],
     "Erva Mate": [
         "Erva Mate"
@@ -1236,9 +1225,6 @@
     ],
     "Espaçador Infantil para Bombinha": [
         "Espaçador Infantil Para Bombinha"
-    ],
-    "Esponja": [
-        "Esponja"
     ],
     "Etiqueta de Identificação para Voluntários": [
         "Etiqueta Identificação Voluntários"
@@ -1255,8 +1241,9 @@
     "Filtro para Café (Tamanho Grande)": [
         "Filtro Para Café Tamanho Grande"
     ],
-    "Fisioterapeutas": [
-        "Fisioterapeutas"
+    "Voluntários Fisioterapeutas": [
+        "Fisioterapeutas",
+        "Voluntários Fisioterapeutas"
     ],
     "Freezer": [
         "Freezer 110v",
@@ -1347,9 +1334,6 @@
     "Massa": [
         "Massa"
     ],
-    "Médicos": [
-        "Médicos"
-    ],
     "Megafone": [
         "Megafone"
     ],
@@ -1400,9 +1384,6 @@
     ],
     "Presunto": [
         "Presunto"
-    ],
-    "Produtos Perecíveis": [
-        "Produtos Perecíveis"
     ],
     "Proteínas": [
         "Proteínas"
