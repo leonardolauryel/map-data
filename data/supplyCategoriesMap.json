@@ -8,7 +8,6 @@
         "Medicamentos Comuns",
         "Medicamentos prescritos",
         "Pomada para assadura",
-        "Prednizolona Para Animais",
         "Remédio para piolho",
         "Remédios básicos",
         "Shampoo Para Piolho",
@@ -19,8 +18,7 @@
         "Vacina Para Influenza",
         "Vermífugo",
         "Vincristina",
-        "Xarope Para Gripe",
-        "Gaze"
+        "Xarope Para Gripe"
     ],
     "Cuidados com Animais": [
         "Cobertores Para Pet",
@@ -28,7 +26,13 @@
         "Insumos Para Internação Veterinário",
         "Peiteira/Coleira Grande",
         "Petisco Para Animais",
-        "Ração Senior"
+        "Ração Senior",
+        "Coleiras",
+        "Casinha e cama animal",
+        "Pet Delicia Para Cão De 17 Anos",
+        "Ração Grãos Bem Pequenos (cachorro Sem Dente)",
+        "Simparic Porte G",
+        "Prednizolona Para Animais"
     ],
     "Especialistas e Profissionais": [],
     "Acomodações e Descanso": [
@@ -41,7 +45,8 @@
     ],
     "Equipamentos de Emergência": [
         "Kits de primeiros socorros",
-        "Esparadrapo"
+        "Esparadrapo",
+        "Gaze"
     ],
     "Voluntariado": [
         "Não Precisa De Voluntários (não Considerar Item Acima: \"voluntários - Tarde\")",
@@ -54,7 +59,13 @@
         "Seringa 3 E 5ml Com Agulha 70x30",
         "Seringa De Insulina",
         "Embalagem descartável para as marmitas",
-        "Fraldas"
+        "Fraldas",
+        "Colher Descartável",
+        "Garfo Descartável",
+        "Embalagem de marmita",
+        "Talher Descartável",
+        "Guardanapo",
+        "Sacos Plásticos"
     ],
     "Higiene Pessoal": [
         "Bucha",
@@ -94,15 +105,16 @@
         "Marmitas ( Arroz, Frango E Legumes)",
         "Mortadela/presunto/apresuntado",
         "Alimentos",
-        "Colher Descartável",
-        "Talher Descartável"
+        "Marmita"
 
     ],
     "Material de Limpeza": [
         "Álcool Em Gel Potes Médios Para Espalha",
         "Itens de limpeza",
         "Sabão Em Pó",
-        "Sacos de lixo"
+        "Sacos de lixo",
+        "Luvas de Limpeza",
+        "Baldes/bacias"
     ],
     "Vestuário": [
         "Calça Masculina Geral",
@@ -143,14 +155,14 @@
 
     ],
     "Mobílias": [
-        "Baldes/bacias"
     ],
     "Eletrodomésticos e Eletrônicos": [
         "Ventilador",
         "Balança",
         "1 Geladeira 110v",
         "Televisão",
-        "Celular"
+        "Celular",
+        "Geladeira"
     ],
     "Entretenimento": [
         "Baralho De Uno",
