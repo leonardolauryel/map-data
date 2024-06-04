@@ -929,12 +929,6 @@
         "lat": -30.0356097,
         "lng": -51.182621
     },
-    "AssociacaoDeMoradoresDaVilaTijucacentroDeColetaEDistribuicao": {
-        "name": "Associação De Moradores Da Vila Tijuca [centro De Coleta E Distribuição]",
-        "address": "Tijuca, Rio de Janeiro - State of Rio de Janeiro, Brazil",
-        "lat": -22.9324433,
-        "lng": -43.2411073
-    },
     "BcAbrigoCipobrasaChurchVilaIpiranga": {
         "name": "Bc - Abrigo Cipó (brasa Church Vila Ipiranga)",
         "address": "R. Cipó, 450 - Vila Ipiranga, Porto Alegre - RS, 91360-370, Brazil",
@@ -3406,5 +3400,35 @@
         "address": "R. Islândia, 49 - Scharlau, São Leopoldo - RS, 93125-635, Brazil",
         "lat": -29.7153033,
         "lng": -51.16169559999999
+    },
+    "EspacoClinicoEspecialUnidadeSantoAntonio": {
+        "name": "Espaço Clínico Especial - Unidade Santo Antônio",
+        "address": "R. Teixeira de Freitas, 85 - Santo Antônio, Porto Alegre - RS, 90640-220, Brazil",
+        "lat": -30.0543602,
+        "lng": -51.2030264
+    },
+    "IGREJASAOBORJA": {
+        "name": "IGREJA SÃO BORJA",
+        "address": "Tv. Cuba | Vila Ipê, 40 - Sarandi, Porto Alegre - RS, 91011-970, Brazil",
+        "lat": -29.991446,
+        "lng": -51.1201126
+    },
+    "ParoquiaNossaSenhoraAparecida": {
+        "name": "Paróquia Nossa Senhora Aparecida",
+        "address": "R. Sessenta e Dois (Lote Guajuviras), 70 - Guajuviras, Canoas - RS, 92340, Brazil",
+        "lat": -29.9014718,
+        "lng": -51.1410513
+    },
+    "PequenaCasadaCrianca": {
+        "name": "Pequena Casa da Criança",
+        "address": "R. Mario de Artagão, 13 - Partenon, Porto Alegre - RS, 90680-090, Brazil",
+        "lat": -30.0654408,
+        "lng": -51.1947106
+    },
+    "AssociacaoDeMoradoresDaVilaTijucacentroDeColetaEDistribuicao": {
+        "name": "Associação De Moradores Da Vila Tijuca [centro De Coleta E Distribuição]",
+        "address": "Rua Reverendo Daniel Betts, 319 - Morro Santana, Porto Alegre - RS, 91450-400, Brazil",
+        "lat": -30.0428526,
+        "lng": -51.1263821
     }
 }
