@@ -33,7 +33,9 @@
         "Ração Grãos Bem Pequenos (cachorro Sem Dente)",
         "Simparic Porte G",
         "Prednizolona Para Animais",
-        "Ração Gato"
+        "Ração Gato",
+        "Ração Cavalo",
+        "Ração Ovino"
     ],
     "Especialistas e Profissionais": [],
     "Acomodações e Descanso": [
@@ -68,7 +70,8 @@
         "Embalagem de marmita",
         "Talher Descartável",
         "Guardanapo",
-        "Sacos Plásticos"
+        "Sacos Plásticos",
+        "Talheres Descartáveis"
     ],
     "Higiene Pessoal": [
         "Bucha",
@@ -147,7 +150,8 @@
         "Luva de Lã",
         "Roupas Adolescente",
         "Meia",
-        "Meias"
+        "Meias",
+        "Roupa de frio"
     ],
     "Veículos de Resgate e Transporte": [
     ],
@@ -164,12 +168,14 @@
         "Prendedor de Roupas",
         "Gás",
         "Gás 45 Kg",
-        "Garrafa térmica"
+        "Garrafa térmica",
+        "Prendedores De Roupa"
 
     ],
     "Mobílias": [
         "Cabides",
-        "Prateleira de Ferro"
+        "Prateleira de Ferro",
+        "Móveis"
     ],
     "Eletrodomésticos e Eletrônicos": [
         "Ventilador",
@@ -177,7 +183,9 @@
         "1 Geladeira 110v",
         "Televisão",
         "Celular",
-        "Geladeira"
+        "Geladeira",
+        "Freezer",
+        "Forno Microondas"
     ],
     "Entretenimento": [
         "Baralho De Uno",
