@@ -8,8 +8,6 @@
     "Água Não Potável": [
         "Água Não Potável"
     ],
-
-
     "Antibióticos e Profilaxia": [
         "Antibiótico - Profilaxia Cães"
     ],
@@ -140,11 +138,11 @@
     "Suplemento Pet": [
         "Suplemento Pet"
     ],
-    "Meia Infantil": [
+    "Meias Infantil": [
         "Meia Infantil",
         "Meia Infantil 22-40"
     ],
-    "Meia": [
+    "Meias": [
         "Meia",
         "Meias"
     ],
@@ -246,13 +244,13 @@
         "Roupas Femininas E Masculinas G E Gg"
     ],
 
-    "Roupas Plus Feminina": [
+    "Roupas Plus Size Feminina": [
         "Roupas plus size feminina",
         "Calça plus size feminina",
         "Roupa Feminina Plus Size",
         "Roupas femininas G/GG"
     ],
-    "Roupas Plus Masculina": [
+    "Roupas Plus Size Masculina": [
         "Roupas plus size masculino",
         "Roupa Masculina Plus Size",
         "Roupa Masculina G E Gg",
@@ -1452,6 +1450,9 @@
     ],
     "Carrinhos de Bebê": [
         "2 Carrinhos De Bebê"
+    ],
+    "Alimentos Perecíveis": [
+        "Alimentos Perecíveis "
     ]
 
 }
