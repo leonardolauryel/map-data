@@ -37,7 +37,11 @@
         "Ração Cavalo",
         "Ração Ovino"
     ],
-    "Especialistas e Profissionais": [],
+    "Especialistas e Profissionais": [
+        "Enfermeiros Voluntários",
+        "Estudantes De Medicina Voluntários",
+        "Médicos Voluntários"
+    ],
     "Acomodações e Descanso": [
         "Cama De Hospital",
         "Colchão Piramidal",
@@ -47,7 +51,9 @@
         "Colchão Solteiro",
         "Cobertores",
         "Roupa de Cama",
-        "Lençol"
+        "Lençol",
+        "Cama Hospitalar",
+        "Colchão"
     ],
     "Equipamentos de Emergência": [
         "Kits de primeiros socorros",
@@ -71,7 +77,8 @@
         "Talher Descartável",
         "Guardanapo",
         "Sacos Plásticos",
-        "Talheres Descartáveis"
+        "Talheres Descartáveis",
+        "Luva"
     ],
     "Higiene Pessoal": [
         "Bucha",
@@ -86,7 +93,9 @@
         "Escova De Dente",
         "Cremes para Cabelo",
         "Fraldas",
-        "Xampu"
+        "Xampu",
+        "Algodão",
+        "Itens de Higiene Pessoal"
     ],
     "Alimentos e Água": [
         "Açúcar",
@@ -127,7 +136,8 @@
         "Baldes/bacias",
         "Amaciante",
         "Água Não Potável",
-        "Materiais e Produtos de Limpeza"
+        "Materiais e Produtos de Limpeza",
+        "Desentupidor"
     ],
     "Vestuário": [
         "Calça Masculina Geral",
@@ -151,7 +161,8 @@
         "Roupas Adolescente",
         "Meia",
         "Meias",
-        "Roupa de frio"
+        "Roupa de frio",
+        "Roupas Íntimas Masculinas"
     ],
     "Veículos de Resgate e Transporte": [
     ],
@@ -169,7 +180,9 @@
         "Gás",
         "Gás 45 Kg",
         "Garrafa térmica",
-        "Prendedores De Roupa"
+        "Prendedores De Roupa",
+        "Fita Adesiva",
+        "Protetor Auricular"
 
     ],
     "Mobílias": [
@@ -185,7 +198,8 @@
         "Celular",
         "Geladeira",
         "Freezer",
-        "Forno Microondas"
+        "Forno Microondas",
+        "Secador de Cabelo"
     ],
     "Entretenimento": [
         "Baralho De Uno",
