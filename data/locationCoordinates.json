@@ -3430,5 +3430,23 @@
         "address": "Rua Reverendo Daniel Betts, 319 - Morro Santana, Porto Alegre - RS, 91450-400, Brazil",
         "lat": -30.0428526,
         "lng": -51.1263821
+    },
+    "CentroDeCulturaNegraBrazilEstrangeiropontoDeColetacozinha": {
+        "name": "Centro De Cultura Negra Brazil Estrangeiro [ponto De Coleta/cozinha]",
+        "address": "R. Felisberto José Pachêco, 297 - Cecília, Viamão - RS, 94475-670, Brazil",
+        "lat": -30.0620082,
+        "lng": -51.0923974
+    },
+    "CasaDeApoioRaquelECassiapontoDeColeta": {
+        "name": "Casa De Apoio Raquel E Cássia [ponto De Coleta]",
+        "address": "Rua Oito, 409 - Bom Jesus, Porto Alegre - RS, 91430-610, Brazil",
+        "lat": -30.0497889,
+        "lng": -51.150283
+    },
+    "IgrejaEvangelicaAssembleiaDeDeusDistritoMorroSantanapontoDeColeta": {
+        "name": "Igreja Evangélica Assembléia De Deus Distrito Morro Santana [ponto De Coleta]",
+        "address": "Av. Dr. Luciano Raul Panatieri, 233 - Morro Santana, Porto Alegre - RS, 91450-230, Brazil",
+        "lat": -30.04412529999999,
+        "lng": -51.1259986
     }
 }
