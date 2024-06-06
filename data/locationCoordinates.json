@@ -3562,5 +3562,89 @@
         "address": "R. Dr. Pitrez, 61 - Aberta dos Morros, Porto Alegre - RS, 91751-530, Brazil",
         "lat": -30.1458044,
         "lng": -51.21122159999999
+    },
+    "SescMontenegrodestivado": {
+        "name": "Sesc Montenegro [destivado]",
+        "address": "R. Cap. Porfírio, 2295 - Centro, Montenegro - RS, 95780-000, Brazil",
+        "lat": -29.6826163,
+        "lng": -51.4605822
+    },
+    "CozinhaSolidariaSantoAntonio": {
+        "name": "Cozinha Solidária Santo Antônio",
+        "address": "R. Miguel Olvicto dos Santos, 612 - Lomba do Pinheiro, Porto Alegre - RS, 91550-280, Brazil",
+        "lat": -30.1017893,
+        "lng": -51.1373131
+    },
+    "SociedadeBeneficenteAfricanistaReinoDeOxumpontoDeColeta": {
+        "name": "Sociedade Beneficente Africanista Reino De Oxum [ponto De Coleta]",
+        "address": "R. Dr. Arno Horn, 278 - Restinga, Porto Alegre - RS, 91790-845, Brazil",
+        "lat": -30.1629088,
+        "lng": -51.1416974
+    },
+    "AssociacaoEvangelicaPentecostalOSenhorDeusEANossaForca": {
+        "name": "Associação Evangélica Pentecostal O Senhor Deus E A Nossa Força",
+        "address": "R. Ibanez André Pithan Souza, 339 - Jardim Sabará, Porto Alegre - RS, 91210-070, Brazil",
+        "lat": -30.0378809,
+        "lng": -51.1419394
+    },
+    "TcheAcolheexclusivoParaPessoasAutistas": {
+        "name": "Tchê Acolhe [exclusivo Para Pessoas Autistas]",
+        "address": "Av. Dom Joaquim - Pelotas, RS, 96020-260, Brazil",
+        "lat": -31.7450526,
+        "lng": -52.336725
+    },
+    "EmeiOdeteBarcelosBernardes": {
+        "name": "Emei Odete Barcelos Bernardes",
+        "address": "Estr. Nossa Sra. dos Navegantes, 402 - Itapuã, Viamão - RS, 94750-000, Brazil",
+        "lat": -30.27954879999999,
+        "lng": -51.01416
+    },
+    "EmebEdwigesFogaca": {
+        "name": "Emeb Edwiges Fogaça",
+        "address": "Av. Castro Alves, 660 - Centro, Esteio - RS, 93260-460, Brazil",
+        "lat": -29.8383152,
+        "lng": -51.1639731
+    },
+    "CentroDeIniciacaoDeEsporteCie": {
+        "name": "Centro De Iniciação De Esporte - Cie",
+        "address": "R. Ver. Moisés Boneti, 50 - Santa Cecília, Viamão - RS, 94480-070, Brazil",
+        "lat": -30.0608344,
+        "lng": -51.094739
+    },
+    "IgrejaNossaSenhoraMedianeira": {
+        "name": "Igreja Nossa Senhora Medianeira",
+        "address": "R. Cel. Neves, 114 - Medianeira, Porto Alegre - RS, 90870-280, Brazil",
+        "lat": -30.0655441,
+        "lng": -51.21116259999999
+    },
+    "AbrigoMd": {
+        "name": "Abrigo Md",
+        "address": "Rod. Tapir Rocha, 970 - Agronomia, Viamão - RS, 94475-000, Brazil",
+        "lat": -30.0784137,
+        "lng": -51.1100282
+    },
+    "ProjetoCasaRecomecar": {
+        "name": "Projeto Casa Recomeçar",
+        "address": "R. Jardel Filho, 209 - Sagrada Família, Gravataí - RS, 94198-187, Brazil",
+        "lat": -29.9218055,
+        "lng": -50.90679660000001
+    },
+    "ResgatadosDoPortoSecoSambodromoexclusivoPet": {
+        "name": "Resgatados Do Porto Seco - Sambódromo [exclusivo Pet]",
+        "address": "R. Ariovaldo Alves Paz, 92 - Santa Rosa de Lima, Porto Alegre - RS, 91180-515, Brazil",
+        "lat": -30.0002446,
+        "lng": -51.1092968
+    },
+    "IgrejaFamiliaLuzDeDeuspontoDeColeta": {
+        "name": "Igreja Familia, Luz De Deus [ponto De Coleta]",
+        "address": "R. Vila Lobos, 470 - Tamandaré, Esteio - RS, 93260-400, Brazil",
+        "lat": -29.8361613,
+        "lng": -51.1635633
+    },
+    "UcergsUniaoDeCegosDoRioGrandeDoSulexclusivoParaPessoasComDeficienciaVisual": {
+        "name": "Ucergs - União De Cegos Do Rio Grande Do Sul [exclusivo Para Pessoas Com Deficiência Visual]",
+        "address": "Rua Frei Henrique Golland Trindade, 425 - Boa Vista, Porto Alegre - RS, 90480-140, Brazil",
+        "lat": -30.0222091,
+        "lng": -51.1770629
     }
 }
