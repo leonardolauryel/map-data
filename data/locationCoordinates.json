@@ -3448,5 +3448,119 @@
         "address": "Av. Dr. Luciano Raul Panatieri, 233 - Morro Santana, Porto Alegre - RS, 91450-230, Brazil",
         "lat": -30.04412529999999,
         "lng": -51.1259986
+    },
+    "NonoTabelionatoDeNotasDePortoAlegrepontoDeColeta": {
+        "name": "Nono Tabelionato De Notas De Porto Alegre [ponto De Coleta]",
+        "address": "Av. Osvaldo Aranha, 1022 - Bom Fim, Porto Alegre - RS, 90035-191, Brazil",
+        "lat": -30.0349485,
+        "lng": -51.2121355
+    },
+    "ComunidadeCristaManancial": {
+        "name": "Comunidade Cristã Manancial",
+        "address": "R. dos Maias, 207 - Santa Rosa de Lima, Porto Alegre - RS, 91170-200, Brazil",
+        "lat": -29.9881544,
+        "lng": -51.09622359999999
+    },
+    "InstitutoEdelweiss": {
+        "name": "Instituto Edelweiss",
+        "address": "Rua João Albino Dilly, 33 - 2 - Concórdia, Ivoti - RS, 93900-000, Brazil",
+        "lat": -29.6033324,
+        "lng": -51.1592798
+    },
+    "LispereCentralDeAjuda": {
+        "name": "Lispere Central De Ajuda",
+        "address": "Estr. Afonso Lourenço Mariante, 3970 - Lomba do Pinheiro, Porto Alegre - RS, 91550-678, Brazil",
+        "lat": -30.1028537,
+        "lng": -51.1483605
+    },
+    "PrimeiraIgrejaBatistaDeGeneralCamaracentroDeDistribuicao": {
+        "name": "Primeira Igreja Batista De General Câmara [centro De Distribuição]",
+        "address": "R. Otávio Santarém, 464 - Vila Popular, Gen. Câmara - RS, 95820-000, Brazil",
+        "lat": -29.9159798,
+        "lng": -51.7655666
+    },
+    "EscolaDeEducacaoInfantilPinguinhosDeOuropontoDeColeta": {
+        "name": "Escola De Educação Infantil Pinguinhos De Ouro [ponto De Coleta]",
+        "address": "Bc - R. Carlos Superti, 300 - Vila Nova, Porto Alegre - RS, 91750-020, Brazil",
+        "lat": -30.1242698,
+        "lng": -51.21732170000001
+    },
+    "ClinicaAconchego": {
+        "name": "Clínica Aconchego",
+        "address": "R. Afonso Gaviraghi, 488 - Igara, Canoas - RS, 92410-500, Brazil",
+        "lat": -29.9026237,
+        "lng": -51.1549005
+    },
+    "EmefGuajuviras": {
+        "name": "Emef Guajuviras",
+        "address": "R. André Luiz dos Anjos Conceição, 577 - Guajuviras, Canoas - RS, 92415-000, Brazil",
+        "lat": -29.9023324,
+        "lng": -51.1346898
+    },
+    "PonchoSolidariocentroDeDistribuicao": {
+        "name": "Poncho Solidário [centro De Distribuição]",
+        "address": "R. Dr. Tancredo Neves, 556 - Bairro Fátima, Canoas - RS, 92200-600, Brazil",
+        "lat": -29.9507772,
+        "lng": -51.181912
+    },
+    "LadoALadoEquoterapiacentroDeDistribuicao": {
+        "name": "Lado A Lado Equoterapia [centro De Distribuição]",
+        "address": "R. Ervino Pochman - Vila Rosa, Cruzeiro do Sul - RS, 95930-000, Brazil",
+        "lat": -29.5153042,
+        "lng": -51.9928796
+    },
+    "AssociacaoFacoaFamiliaAyahuascaCoracaoDeAguiacentroDeDistribuicao": {
+        "name": "Associação Facoa - Família Ayahuasca Coração De Águia [centro De Distribuição]",
+        "address": "R. Eng. Ludolfo Boehl, 972 - Teresópolis, Porto Alegre - RS, 91720-150, Brazil",
+        "lat": -30.0844958,
+        "lng": -51.2034558
+    },
+    "OngReeducarcentroDeDistrubuicao": {
+        "name": "Ong Reeducar [centro De Distrubuição]",
+        "address": "R. Panambi, 45 - Fortuna, Sapucaia do Sul - RS, 93212-650, Brazil",
+        "lat": -29.8097635,
+        "lng": -51.1761249
+    },
+    "CentroDeCulturaNegraBrazilEstrangeirocozinhapontoDeColeta": {
+        "name": "Centro De Cultura Negra Brazil Estrangeiro [cozinha] [ponto De Coleta]",
+        "address": "R. Felisberto José Pachêco, 297 - Cecília, Viamão - RS, 94475-670, Brazil",
+        "lat": -30.0620082,
+        "lng": -51.0923974
+    },
+    "CtgOsFarrapospontoDeColeta": {
+        "name": "Ctg Os Farrapos [ponto De Coleta]",
+        "address": "R. Raul Pompéia, 1400 - Tres Vendas, Pelotas - RS, 96065-400, Brazil",
+        "lat": -31.7149187,
+        "lng": -52.354896
+    },
+    "AbrigoRenascerAbrafhexclusivoLgbtqiapn": {
+        "name": "Abrigo Renascer Abrafh [exclusivo Lgbtqiapn+]",
+        "address": "R. Eleutério Araújo, 32 - Partenon, Porto Alegre - RS, 90680-410, Brazil",
+        "lat": -30.0646945,
+        "lng": -51.1867069
+    },
+    "IgrejaBolaDeNevePelotaspontoDeColeta": {
+        "name": "Igreja Bola De Neve - Pelotas [ponto De Coleta]",
+        "address": "R. Santos Dumont, 660 - Centro, Pelotas - RS, 96020-380, Brazil",
+        "lat": -31.7542719,
+        "lng": -52.341174
+    },
+    "LaranjalPraiaClubepontoDeColeta": {
+        "name": "Laranjal Praia Clube [ponto De Coleta]",
+        "address": "Av. Rio Grande do Sul, 129 - Laranjal, Pelotas - RS, 96090-590, Brazil",
+        "lat": -31.7620475,
+        "lng": -52.2298171
+    },
+    "AbrigoCasa420exclusivoPet": {
+        "name": "Abrigo Casa 420 [exclusivo Pet]",
+        "address": "R. Prof. Cristiano Fischer, 420 - Petrópolis, Porto Alegre - RS, 91410-000, Brazil",
+        "lat": -30.043677,
+        "lng": -51.1718637
+    },
+    "ParoquiaMeninoJesusDePragacentroDeDistribuicao": {
+        "name": "Paroquia Menino Jesus De Praga [centro De Distribuição]",
+        "address": "R. Dr. Pitrez, 61 - Aberta dos Morros, Porto Alegre - RS, 91751-530, Brazil",
+        "lat": -30.1458044,
+        "lng": -51.21122159999999
     }
 }
